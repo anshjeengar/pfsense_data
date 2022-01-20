@@ -2,7 +2,7 @@ scholarlab.com
 .scholarlab.com
 www.scholarlab.in
 scholar-resources.s3.ap-south-1.amazonaws.com
-______________________________________________
+#______________________________________________
 robogarden.ca
 .robogarden.ca
 www.robogarden.ca
@@ -14,14 +14,12 @@ maxcdn.bootstrapcdn.com
 s3-us-west-2.amazonaws.com
 robogarden.s3-us-west-2.amazonaws.com
 checkout.razorpay.com
-
-____________Common__________________
+#____________Common__________________
 ajax.googleapies.com
 fonts.googleapis.com
 fonts.gstatic.com
 .amazonaws.com
-
-_________Trackers__________________
+#_________Trackers__________________
 seal.godaddy.com
 cdn4.mxpnl.com
 cdn.inspectlet.com
